@@ -1,6 +1,6 @@
 Temperature Converter
 
-![Image Alt Text](tempconverter.png)
+![Image Alt Text](temp-converter.png)
 
 Description:
 
